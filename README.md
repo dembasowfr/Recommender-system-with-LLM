@@ -124,12 +124,4 @@ The results of the recommendation system vary across the different approaches:
 
 In this project, we explored different recommendation approaches, highlighting the strengths and weaknesses of traditional, hybrid, and LLM-based methods. While traditional methods are easier to implement and scale, hybrid methods offer more robustness, and LLM-based recommendations provide the highest level of personalization and context awareness.
 
-```
 
----
-
-### Notes:
-
-1. Replace the placeholder paths `path_to_traditional_recommendation_image.png`, `path_to_hybrid_recommendation_image.png`, and `path_to_llm_recommendation_image.png` with actual file paths or URLs to images in your project.
-2. Customize the "Results" section (`X%`, `Y%`, `Z%`) based on the actual performance metrics from your experiments.
-3. If using Git LFS for large files, make sure that information is included in the installation instructions.
