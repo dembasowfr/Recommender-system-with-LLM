@@ -1,0 +1,4 @@
+openai
+weaviate-client
+pandas
+python-dotenv
